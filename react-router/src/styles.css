@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
+
+.active {
+  color: blue;
+}
+
+.link {
+  margin-right: 10px;
+}
